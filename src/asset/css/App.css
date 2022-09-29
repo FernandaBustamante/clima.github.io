@@ -1,0 +1,98 @@
+
+body{
+  background-color: #001d3d;
+ 
+}
+
+
+
+
+.App {
+  text-align: center;
+  font-family: 'Arima Madurai', cursive;
+
+
+}
+.navba {
+  background-color: #000814;
+  color:#edf6f9;
+  font-family:  'Istok Web', sans-serif;
+  margin-bottom: 25px;
+  font-size: small;
+  
+}
+
+
+.mx-auto{
+  font-family: 'Arima Madurai', cursive;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-size: 23px;
+
+
+}
+
+.input-group{
+  width: 40%;
+
+}
+
+.card{
+  max-width: 60%;
+  border-radius: 15px;
+}
+
+.card-title{
+  position: absolute;
+  padding:20px;
+  z-index: 3;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.card-date{
+  position: absolute;
+  padding-left:20px;
+  margin-top: 60px;
+  font-size: ;
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+
+
+.card-temp{
+  position: absolute;
+  padding-left:20px;
+  margin-top:280px;
+  font-size:50px;
+  z-index: 3;
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+.card-desc{
+  position: absolute;
+  padding-left:5px;
+  margin-top: 360px;
+  z-index: 3;
+  font-size: 13px;
+  font-family: 'Arima Madurai', cursive;
+
+}
+
+.card-video {
+  position:absolute;
+  left: 0;
+  top: 0;
+  max-height: 100%;
+  z-index:2;
+
+}
+
+.row{
+  text-align: left;
+  margin-left: 0%;
+  font-size: small;
+  font-family: 'Arima Madurai', cursive;
+  
+}
+
+.card-body{
+  font-family: 'Arima Madurai', cursive;
+}
